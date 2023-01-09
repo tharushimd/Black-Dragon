@@ -1,5 +1,5 @@
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮KING ALPHA 2022 ®️ALL RIGHTS RESERVED
+//▮BLACK DRAGON 2023 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
@@ -133,7 +133,7 @@ async function startXeonBotInc() {
         if (!XeonBotInc.public && !mek.key.fromMe && chatUpdate.type === 'notify') return
         if (mek.key.id.startsWith('BAE5') && mek.key.id.length === 16) return
         m = smsg(XeonBotInc, mek, store)
-        require("./kingalpha")(XeonBotInc, m, chatUpdate, store)
+        require("./blackdragon")(XeonBotInc, m, chatUpdate, store)
         } catch (e) {
             console.log(e)
         }
