@@ -1,9 +1,9 @@
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/malikabhishek1/KING-ALPHA/fork)
+- FORK THE REPOSITORY [Here](https://github.com/nimaofficial/Black-Dragon/fork)
 
 ## `Scan QR Code For Session`
-[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@nimaofficial/KING-ALPHA-QR)
+[![Black Dragon](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@nimaofficial/KING-ALPHA-QR)
 
  ` BUILDPACKS`
 
