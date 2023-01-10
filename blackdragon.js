@@ -26,8 +26,6 @@
 //
 
 
-
-
 require('./settings')
 const { BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, Mimetype, generateWAMessage, prepareWAMessageMedia, prepareMessageFromContent,  areJidsSameUser, getContentType } = require('@adiwajshing/baileys')
 const fs = require('fs')
@@ -1890,7 +1888,7 @@ case 'song': {
     ]
     let buttonMessage = {
     image: { url: anu.thumbnail },
-    caption: `*┏━━━❬ KING ALPHA📌❭*
+    caption: `*┏━━━❬ BLACK DRAGON📌❭*
      
     *📥 SONG DOWNLODER* 
     
@@ -1907,7 +1905,7 @@ case 'song': {
     
     
     ┗━━━━━━━━━❊`,
-    footer: `KING ALPHA`,
+    footer: `BLACK DRAGON`,
     buttons: buttons,
     headerType: 4,
     }
@@ -1926,7 +1924,7 @@ case 'song': {
        ]
        let buttonMessage = {
        image: { url: anu.thumbnail },
-       caption: `*┏━━━❬ KING ALPHA📌❭*
+       caption: `*┏━━━❬ BLACK DRAGON📌❭*
            
          📥 VIDEO DOWNLODER* 
        
@@ -1943,7 +1941,7 @@ case 'song': {
       
       
       ┗━━━━━━━━━❊`,
-       footer: `KING ALPHA`,
+       footer: `BLACK DRAGON`,
        buttons: buttons,
        headerType: 4,
        }
@@ -7622,14 +7620,14 @@ const sections = [
 {
 title: "Please Select Mod🪀",
 rows: [
-{title: `${anu.MOD1}`, rowId: `modwh ${anu.LINK1}`, description: `Whatsapp Mod🪀 Downloader By KING ALPHA`},
-{title: `${anu.MOD2}`, rowId: `modwh ${anu.LINK2}`, description: `Whatsapp Mod🪀 Downloader By KING ALPHA}`},
-{title: `${anu.MOD3}`, rowId: `modwh ${anu.LINK3}`, description: `Whatsapp Mod🪀 Downloader By KING ALPHA`},
-{title: `${anu.MOD4}`, rowId: `modwh ${anu.LINK4}`, description: `Whatsapp Mod🪀 Downloader By KING ALPHA`},
-{title: `${anu.MOD5}`, rowId: `modwh ${anu.LINK5}`, description: `Whatsapp Mod🪀 Downloader By KING ALPHA`},
-{title: `${anu.MOD6}`, rowId: `modwh ${anu.LINK6}`, description: `Whatsapp Mod🪀 Downloader By KING ALPHA`},
-{title: `${anu.MOD7}`, rowId: `modwh ${anu.LINK7}`, description: `Whatsapp Mod🪀 Downloader By KING ALPHA`},
-{title: `${anu.MOD8}`, rowId: `modwh ${anu.LINK8}`, description: `Whatsapp Mod🪀 Downloader By KING ALPHA`}
+{title: `${anu.MOD1}`, rowId: `modwh ${anu.LINK1}`, description: `Whatsapp Mod🪀 Downloader By BLACK DRAGON`},
+{title: `${anu.MOD2}`, rowId: `modwh ${anu.LINK2}`, description: `Whatsapp Mod🪀 Downloader By BLACK DRAGON}`},
+{title: `${anu.MOD3}`, rowId: `modwh ${anu.LINK3}`, description: `Whatsapp Mod🪀 Downloader By BLACK DRAGON`},
+{title: `${anu.MOD4}`, rowId: `modwh ${anu.LINK4}`, description: `Whatsapp Mod🪀 Downloader By BLACK DRAGON`},
+{title: `${anu.MOD5}`, rowId: `modwh ${anu.LINK5}`, description: `Whatsapp Mod🪀 Downloader By BLACK DRAGON`},
+{title: `${anu.MOD6}`, rowId: `modwh ${anu.LINK6}`, description: `Whatsapp Mod🪀 Downloader By BLACK DRAGON`},
+{title: `${anu.MOD7}`, rowId: `modwh ${anu.LINK7}`, description: `Whatsapp Mod🪀 Downloader By BLACK DRAGON`},
+{title: `${anu.MOD8}`, rowId: `modwh ${anu.LINK8}`, description: `Whatsapp Mod🪀 Downloader By BLACK DRAGON`}
 
 ]
 },
@@ -7651,7 +7649,7 @@ if (!text) return reply(mess.linkm)
 if (!isUrl(args[0]) && !args[0].includes('mediafire.com')) return reply(`Cant Download This Mod`)
 const baby1 = await mediafireDl(text)
 if (baby1[0].size.split('MB')[0] >= 200) return reply('*File Over Limit* '+util.format(baby1))
-const result4 = `  *Mod Whatsapp Downloder By KING ALPHA*
+const result4 = `  *Mod Whatsapp Downloder By BLACK DRAGON*
 
 _Mod Name :_ *${baby1[0].nama}*
 _Size :_ *${baby1[0].size}*`
@@ -7673,7 +7671,6 @@ case 'tqtt':
 throw `Thanks to
 thinura
 nimesh
-vihanga
 kaveesha (Me)
 My family
 And all friends who helped assemble this sexy script !!!`
@@ -7704,7 +7701,7 @@ case 'alive': {
     ɪ'ᴍ ᴋɪɴɢ ᴀʟᴘʜᴀ ᴍᴅ
      
     ᴍʏ ᴏᴡɴᴇʀ : ${global.ownername}`,
-    footer: `✪ ᴋɪɴɢ ᴀʟᴘʜᴀ ʙᴏᴛ ✪`,
+    footer: `✪ ʙʟᴀᴄᴋ ᴅʀᴀɢᴏɴ ʙᴏᴛ ✪`,
     buttons: buttons,
     headerType: 4,
     }
