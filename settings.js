@@ -24,14 +24,14 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //bot bomdy 
 global.ownernomer = "94786802371" //ur number
 global.premium = ['94786802371'] //ur premium number
-global.botname = 'KING ALPHA' //ur bot name
+global.botname = 'BLACK DRAGON' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.helacloud.ga" //ur website to be displayed
-global.botscript = 'https://github.com/nimaofficial/SMALL-BOT' //script link
+global.botscript = 'https://github.com/nimaofficial/Black-Dragon' //script link
 global.themeemoji = "❤️" //ur theme emoji
-global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "King Alpha\n\n\nA whatsapp bot developed by\n❤️Nimesh Official" //ur sticker watermark author
-global.wm = "𝗞𝗜𝗡𝗚 𝗔𝗟𝗣𝗛𝗔 𝗜𝗡𝗖" //ur watermark
+global.packname = "Sticker By Black Dragon" //ur sticker watermark packname
+global.author = "Nimesh Official" //ur sticker watermark author
+global.wm = "𝗕𝗟𝗔𝗖𝗞 𝗗𝗥𝗔𝗚𝗢𝗡 𝗜𝗡𝗖" //ur watermark
 
 // Other
 global.sessionName = 'session'
