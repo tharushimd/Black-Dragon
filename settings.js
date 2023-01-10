@@ -19,7 +19,7 @@ global.owner = ['94786802371'] //ur owner number
 global.ownername = "Nimesh Official" //ur owner name
 global.ytname = "YT: HELA CLOUD" //ur yt chanel name
 global.socialm = "GitHub: nimaofficial" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
 
 //bot bomdy 
 global.ownernomer = "94786802371" //ur number
