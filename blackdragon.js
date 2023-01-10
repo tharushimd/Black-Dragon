@@ -7688,7 +7688,7 @@ case 'alive': {
     {buttonId: ` command `, buttonText: {displayText: '☛ 🎀 LIST MENU 🎀 ☜'}, type: 1}
     ]
     let buttonMessage = {
-    image: { url: `https://telegra.ph/file/9efd4bf27e62b92dce860.jpg` },
+    image: { url: `https://telegra.ph/file/b1d2451fa3985018da8d7.jpg` },
     caption: `
     ʜɪ : ${pushname}
     
