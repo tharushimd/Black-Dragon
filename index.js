@@ -26,8 +26,6 @@
 //
 
 
-
-
 require('./settings')
 const { default: XeonBotIncConnect, useSingleFileAuthState, DisconnectReason, fetchLatestBaileysVersion, generateForwardMessageContent, prepareWAMessageMedia, generateWAMessageFromContent, generateMessageID, downloadContentFromMessage, makeInMemoryStore, jidDecode, proto } = require("@adiwajshing/baileys")
 const { state, saveState } = useSingleFileAuthState(`${sessionName}.json`)
@@ -807,9 +805,9 @@ XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
     return XeonBotInc
 }
 app.get("/", (req, res) => {
-    res.send("📟 King-Alpha-MD Working successfully!");
+    res.send("📟 Black-Dragon-MD Working successfully!");
   });
-  app.listen(port, () => console.log(`📟 King-Alpha-MD Server listening on port http://localhost:${port} 📟`));
+  app.listen(port, () => console.log(`📟 Black-Dragon-MD Server listening on port http://localhost:${port} 📟`));
   setTimeout(() => {
 startXeonBotInc()
 }, 3000);
