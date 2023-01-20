@@ -24,13 +24,13 @@ global.location = "Sri Lanka, North Central Provice, Kekirawa" //ur location
 global.ownernomer = "94758512807" //ur number
 global.premium = ['94758512807'] //ur premium number
 global.botname = 'BLACK DRAGON' //ur bot name
-global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
+global.linkz = "https://chat.whatsapp.com/DqqTyq7MjfxG1CGzE6qszz" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.helacloud.ga" //ur website to be displayed
 global.botscript = 'https://github.com/nimaofficial/Black-Dragon' //script link
 global.themeemoji = "❤️" //ur theme emoji
 global.packname = "Sticker By Gayantha Prabod" //ur sticker watermark packname
 global.author = "Gayantha Official" //ur sticker watermark author
-global.wm = "𝗕𝗟𝗔𝗖𝗞 𝗗𝗥𝗔𝗚𝗢𝗡 𝗜𝗡𝗖" //ur watermark
+global.wm = "𝗠𝗥 𝗟𝗨𝗖𝗜𝗙𝗘𝗥 𝗜𝗡𝗖" //ur watermark
 
 // Other
 global.sessionName = 'session'
